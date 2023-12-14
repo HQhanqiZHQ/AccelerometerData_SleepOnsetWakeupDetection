@@ -6,4 +6,4 @@ title: "Download"
 
 ## Header
 
-This is a self-guided individual project working on processing accelerometer data to detect sleep patterns, applications in child psychology and sleep medicine.
+This is a self-guided individual project working on processing accelerometer data to detect sleep patterns, applications in child psychology and sleep medicine!
