@@ -1,7 +1,7 @@
-name: "YOURNAME"                                # CHANGE HERE 
+name: "Hanqi Zeng"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "YOURNAME"                             # CHANGE HERE 
+  title: "Hanqi Zeng"                             # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
@@ -10,19 +10,19 @@ navbar:
     - text: "About"
       icon: fa-user 
       href: about.html
-    - text: "CV"
+    - text: "Report"
       icon: fa-file-pdf-o
-      href: cv.html
-    - text: "Blog"
+      href: report.html
+    - text: "Portfolio"
       icon: fa-rss
-      href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
+      href: https://www.walkingfairy.com  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
     - text: "Contact me"
       icon: fa-envelope-o
-      href: mailto:YOUREMAIL                    # CHANGE HERE 
+      href: mailto:hanqizeng@hsph.harvard.edu                    # CHANGE HERE 
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/YOURGITHUB       # CHANGE HERE 
+      href: https://github.com/HQhanqiZHQ       # CHANGE HERE 
 output:
   html_document:
     theme: cosmo
