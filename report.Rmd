@@ -1,9 +1,0 @@
----
-title: "Download"
----
-
-<a href="Report.pdf#" class="download" title="Download Report as PDF">Download Report</a>			
-
-## Header
-
-This is a self-guided individual project working on processing accelerometer data to detect sleep patterns, applications in child psychology and sleep medicine!

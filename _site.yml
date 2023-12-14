@@ -12,10 +12,7 @@ navbar:
       href: about.html
     - text: "Report"
       icon: fa-file-pdf-o
-      href: report.html
-    - text: "Portfolio"
-      icon: fa-rss
-      href: https://www.walkingfairy.com  # CHANGE HERE OR DELETE ALL 3 LINES 
+      href: project_pdf.html
   right:
     - text: "Contact me"
       icon: fa-envelope-o
