@@ -9,7 +9,7 @@ navbar:
       href: index.html
     - text: "About"
       icon: fa-user 
-      href: about.html
+      href: project.html
     - text: "Report"
       icon: fa-file-pdf-o
       href: project_pdf.html
