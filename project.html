@@ -168,8 +168,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <h4 class="anchored" data-anchor-id="train-events-train_events.csv">Train Events (train_events.csv)</h4>
 <p>Accessible through this <a href="https://www.kaggle.com/competitions/child-mind-institute-detect-sleep-states/data?select=train_events.csv">link</a>, this dataset comprises sleep logs from accelerometer devices, documenting onset and wake events. It contains five columns, including <code>night</code> (enumeration of potential onset/wakeup event pairs), <code>event</code> (type of event), <code>step</code>, and <code>timestamp</code>.</p>
 </section>
-<section id="training-data-train_events.csv" class="level4">
-<h4 class="anchored" data-anchor-id="training-data-train_events.csv">Training Data (train_events.csv)</h4>
+<section id="training-data-zzzs_train.parquet" class="level4">
+<h4 class="anchored" data-anchor-id="training-data-zzzs_train.parquet">Training Data (Zzzs_train.parquet)</h4>
 <p>Available <a href="https://www.kaggle.com/datasets/carlmcbrideellis/zzzs-lightweight-training-dataset-target?select=Zzzs_train.parquet">here</a>, this dataset includes continuous accelerometer recordings. It features metrics like <code>series_id</code>, <code>step</code>, <code>timestamp</code>, <code>anglez</code>, and <code>enmo</code>, the latter two being crucial metrics for sleep detection as described by the <a href="https://cran.r-project.org/web/packages/GGIR/vignettes/GGIR.html#4_Inspecting_the_results">GGIR package</a>.<code>enmo</code> (Euclidean Norm Minus One with negative values rounded to zero) is an acceleration metric describing physical activities. <code>anglez</code> is the angle of the arm relative to the vertical axis of the body.</p>
 </section>
 <section id="test-data-test_series.parquet" class="level4">
